@@ -99,8 +99,8 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: "4a14ac7e0b76a81596aa420c2ed1b31e049e84ae"
-      url: "https://github.com/opsenes/flutter_pdfview.git"
+      resolved-ref: "610995fa3b6b0d3d2b786a93da37183a31a8c340"
+      url: "https://github.com/Gabarsolon/flutter_pdfview.git"
     source: git
     version: "1.4.1+1"
   flutter_test:
